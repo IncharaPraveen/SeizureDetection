@@ -26,5 +26,5 @@ Due to GitHub's strict 100 MB file size limit, the raw biological data (`.edf` f
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/IncharaPraveen/SeizureDetection.git]
+   git clone ? 
